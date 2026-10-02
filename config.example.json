@@ -1,0 +1,11 @@
+{
+  "frame_account_id": "REPLACE_FRAME_ACCOUNT_ID",
+  "max_file_bytes": 5368709120,
+  "reserve_bytes": 2147483648,
+  "routes": [
+    {
+      "drive_folder_id": "REPLACE_DRIVE_FOLDER_ID",
+      "frame_folder_id": "REPLACE_FRAME_FOLDER_ID"
+    }
+  ]
+}
